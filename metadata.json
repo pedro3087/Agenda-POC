@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Agenda Architect",
+  "description": "An intelligent meeting agenda generator. Upload any document, and Gemini will analyze it to create a structured meeting plan, including stakeholders, topics, and a detailed timeline view.",
+  "requestFramePermissions": []
+}
